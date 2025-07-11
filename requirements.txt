@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+opencv-python-headless
+Pillow
+sudachipy
+sudachidict-core
+requests
+pyngrok
