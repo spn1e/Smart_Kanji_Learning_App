@@ -1,0 +1,6 @@
+smart-kanji-app/
+├── .gitignore       ← here
+├── app.py
+├── kanji_helpers.py
+├── requirements.txt
+└── … other files …
